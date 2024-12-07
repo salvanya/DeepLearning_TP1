@@ -1,4 +1,4 @@
-# Student Performance and Medical Prediction Neural Networks
+# Problem solving with Neural Networks
 
 ## Overview
 This repository contains three Jupyter notebooks demonstrating different machine learning applications using neural networks, focusing on performance prediction, medical diagnosis, and image classification.
@@ -49,7 +49,7 @@ This repository contains three Jupyter notebooks demonstrating different machine
 **Dataset:** Natural scene images across six predefined categories
 
 **Model Architectures Explored:**
-- Dense Layer Model
+- Feed Foward Model
 - Convolutional and Dense Layer Model
 - Residual Identity Block Model
 - Transfer Learning Model (using TensorFlow pre-trained backbones)
